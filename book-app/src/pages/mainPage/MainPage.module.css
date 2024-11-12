@@ -1,0 +1,15 @@
+h1 {
+    margin-bottom: 53px;
+}
+
+h3 {
+    margin-bottom: 38px;
+}
+
+.SearchBox {
+    display: flex;
+}
+
+.ResultBox {
+    width: 940px;
+}
